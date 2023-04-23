@@ -11,11 +11,11 @@ function Navbar(){
                
                     <img className="logo" src={et_flag} alt="eth_flag" />
                     <div className="title">
-                        <Link to="/">Federal Democratic Republic of Ethiopia</Link>
+                        <Link to="/business-portal">Federal Democratic Republic of Ethiopia</Link>
                     </div>               
                     
                 <ul className={`ul ${isOpen && "open"}`} >
-                    <Customlink to="/">Home</Customlink>
+                    <Customlink to="/business-portal">Home</Customlink>
                     <Customlink to="/login">Login</Customlink>
                     <Customlink to="/register">Register</Customlink>                
                                 
