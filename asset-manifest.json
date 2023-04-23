@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/business-portal/static/css/main.039b9346.css",
-    "main.js": "/business-portal/static/js/main.3006886d.js",
+    "main.js": "/business-portal/static/js/main.26257c58.js",
     "static/media/cecee1da-8b3e-4550-a19b-31d1214c1523.png": "/business-portal/static/media/cecee1da-8b3e-4550-a19b-31d1214c1523.970ae47317c38f2474c9.png",
     "static/media/558935d4-0fe0-4ecc-b899-32d1938b7cde.png": "/business-portal/static/media/558935d4-0fe0-4ecc-b899-32d1938b7cde.67bd694f94e9acd5a9d0.png",
     "static/media/9d79c1df-b8b4-49f7-9a1a-f632546c309c.png": "/business-portal/static/media/9d79c1df-b8b4-49f7-9a1a-f632546c309c.5535d42cd528bae7ce27.png",
@@ -14,10 +14,10 @@
     "static/media/09da5f6a-72c9-4ebe-8cc8-9d858e5b0bf5.png": "/business-portal/static/media/09da5f6a-72c9-4ebe-8cc8-9d858e5b0bf5.eb1d87aa26a7dbba8dbe.png",
     "index.html": "/business-portal/index.html",
     "main.039b9346.css.map": "/business-portal/static/css/main.039b9346.css.map",
-    "main.3006886d.js.map": "/business-portal/static/js/main.3006886d.js.map"
+    "main.26257c58.js.map": "/business-portal/static/js/main.26257c58.js.map"
   },
   "entrypoints": [
     "static/css/main.039b9346.css",
-    "static/js/main.3006886d.js"
+    "static/js/main.26257c58.js"
   ]
 }
